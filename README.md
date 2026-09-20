@@ -1,4 +1,4 @@
-# EvilAppleJuice-ESP32 V2.0（串口控制版）
+# EvilAppleJuice-ESP32（串口控制版）
 
 基于 EvilAppleJuice 的 ESP32 固件，模拟 Apple 设备 BLE 广播以触发附近 iPhone / iPad 的「附近 AirPods / 连接」弹窗。
 
